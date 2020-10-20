@@ -237,21 +237,21 @@
                   
                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
-                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
-                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
                   
-                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
-                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
                   
                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
-                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
-                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
                   
                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
@@ -259,7 +259,7 @@
                   
                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
-                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                   
                 </g>
               </svg>
@@ -498,7 +498,7 @@
 
       <footer>
         <span>These metrics includes private contributions</span>
-        <span>Last updated Mon Oct 19 2020 23:46:10 GMT+0000 (Coordinated Universal Time)</span>
+        <span>Last updated Tue Oct 20 2020 00:11:48 GMT+0000 (Coordinated Universal Time)</span>
       </footer>
 
     </div>
