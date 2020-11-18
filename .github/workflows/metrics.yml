@@ -15,11 +15,11 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT }}
           filename: github-metrics.svg
           template: classic
-          plugin_pagespeed: no
+          base: header, activity, community, repositories, metadata
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_habits: yes
-          plugin_followup: yes
-          plugin_languages: yes
           plugin_selfskip: yes
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_followup: yes  
           debug: no
