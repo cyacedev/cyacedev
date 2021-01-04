@@ -15,11 +15,20 @@ jobs:
           committer_token: ${{ secrets.METRICS_BOT }}
           filename: github-metrics.svg
           template: classic
+          config_timezone: Europe/Zurich
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
           plugin_traffic: yes
+          plugin_gists: yes
           plugin_selfskip: yes
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_followup: yes  
+          plugin_followup: yes
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_limit: 15
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_stars: yes
+          plugin_stars_limit: 4 
           debug: no
